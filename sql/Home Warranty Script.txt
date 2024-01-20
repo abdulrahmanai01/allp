@@ -1,0 +1,9 @@
+ Agent Intro: Hi, this is _____. I'm with Benefit Support Group with our opportunities team on a recorded line. Can you hear me okay?
+ Purpose    : Okay, now and you can press 1 to be removed, I show here that your home may be eligible for a home warranty program that allows you to protect all of  your  major systems and appliances, items like the A/C and heating system, plumbing and kitchen as well as laundry appliances. I just need to ask you a few questions first,  okay?
+
+ House Owner: Now, do you own your own home?
+ Recap      : ust to recap, our home warranty plan covers all of your major systems and appliances, such as A/C and HVAC, plumbing, kitchen and laundry appliances. providing you with peace of mind and protection from unexpected repair expenses. You'll also have access to our network of skilled technicians. Based on your needs, it seems like this plan could be a valuable addition to your home. Is that correct?
+
+ Move to close: Great to hear that you're interested in learning more about our home warranty plans! So the first thing we want to do, is get you a free quote to make sure it all makes sense to you, I will now connect you with a specialist for a free quote, one moment, please..
+ Close        : Great, you may hear a few system prompts, there’s no need for you to select those, hang tight and I’ll enter those for us. One moment while I bring on  a Home warranty specialist, okay?
+ Warm transfer: Hi, this is _____, and I have a qualified candidate that needs help being connected with a home warranty specialist in their area. Thank you!
