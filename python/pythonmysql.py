@@ -9,8 +9,14 @@ con = mysql.connector.connect(
 print(con)
 result=con.cursor()
 result.execute("show tables")
-resultshow=result.fetchall()
-for x in resultshow:
+result_show=result.fetchall()
+for x in result_show:
     print(x)
-result.execute("show tables")
-resultshow=result.fetchall()
+
+'''result.execute("show tables")
+result_show=result.fetchall()
+
+for value in result_show = result.fetchall()
+
+for value in result_show:
+ print (value)'''

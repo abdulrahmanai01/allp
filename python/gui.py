@@ -2,9 +2,9 @@ from tkinter import *
 
 app=Tk()
 app.title("my first python gui app")
-app.geometry("500x200+500+100")
+app.geometry("200x400")
 app.config(bg="blue")
-# app.state("zooned")
+# app.state("zoomed")
 
 lbltitle=Label(app,text="Arithmatic Operations")
 lbltitle.grid(row=0, column=1, padx=40, pady=40)
